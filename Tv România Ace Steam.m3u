@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/1214564193/antena1ro_400x400.jpg" group-title="Romanesti", Antena 1
-acestream://8e61f251d2b54c6d5259c4be802bde0d11f112fe
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i0.1616.ro/media/601/3161/38616/19534557/1/screen-shot-2014-09-05-at-11.57.49-am.png" group-title="Romanesti", Prima Tv
-acestream://872ed8aeba3fcfc5eeacf05a9f7bc1d6df428e28
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.agvilamedia.ro/wp-content/uploads/2016/12/pro-cinema.jpg" group-title="Romanesti", Pro Cinema
 acestream://df7937da949655537c4ec01165bd246b169176ac
