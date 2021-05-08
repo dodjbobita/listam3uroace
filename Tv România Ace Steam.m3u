@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="protv.ro" tvg-logo="http://storage0.dms.mpinteractiv.ro/media/1/1481/21334/18812546/1/grupul-pro-tv-anunta-rezultatele-financiare-si-de-audienta-pentr.jpg" group-title="Romanesti", Pro TV
+acestream://b7d30c7fabda7d34801fe6f7d4513f7c9674a1fe
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/1214564193/antena1ro_400x400.jpg" group-title="Romanesti", Antena 1
+acestream://8e61f251d2b54c6d5259c4be802bde0d11f112fe
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i0.1616.ro/media/601/3161/38616/19534557/1/screen-shot-2014-09-05-at-11.57.49-am.png" group-title="Romanesti", Prima Tv
+acestream://872ed8aeba3fcfc5eeacf05a9f7bc1d6df428e28
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.agvilamedia.ro/wp-content/uploads/2016/12/pro-cinema.jpg" group-title="Romanesti", Pro Cinema
+acestream://df7937da949655537c4ec01165bd246b169176ac
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.acasatv.co/uploads/thumbs/451ec4c14-1.jpg" group-title="Sport", Telekom Sport 1
+acestream://a5c19d3245596ee3ed528468368e97b0467a5995
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://stvron.com/canale/512/telekom-sport-2.png" group-title="Sport", Telekom Sport 2
+acestream://5ff281e7b736fbfb35059f14d04b2ef57512c3a0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://stvron.com/canale/512/kukurigu-sport-1.png" group-title="Sport", KuKurigu Sport 1
+acestream://4a4294c72188e91e24b8dd9f49246ba8c9307170
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/manutv.net/wp-content/uploads/2021/02/kukurigu-sport-2.png" group-title="Sport", KuKurigu Sport 2
+acestream://144909db8d0119e42e0b89810de615e2ad425ebe
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://manutv.net/wp-content/uploads/2021/02/kukurigu-sport-3-360x360.png" group-title="Sport", KuKurigu Sport 3
+acestream://13ee042b7446275702d30f4c7a87ee889c21c3d0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F3373346cae75f6e5.2Epng/1200x630/crop-from/top/quality/80/discovery-science.png" group-title="Documentare", Discovery Science ACE
+acestream://4a735af201823ef27818d11f44c64d04446d97b6
+
+#EXTINF:-1 tvg-id="TVG-IDdiscoverychannel.ro" tvg-logo="https://deadline.com/wp-content/uploads/2019/04/discovery-logo-.jpg" group-title="Documentare", Discovery ACE
+acestream://624a570584e86f41d63c8411e5c4870a5ed76a56
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="Documentare", History ACE SD
+acestream://3436106579d1b0a585a05cb3f3b99f1d5230cf8d
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://3.bp.blogspot.com/-f40PdkH-0oA/T-w_1Ab4gkI/AAAAAAAAK54/AhdOXp4YxzQ/s1600/investigation+discovery01.jpg" group-title="Documentare", Investigation Discovery ACE SD
+acestream://9ccce635750ee7deaa7684166b7b3adc64242ceb
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.barriecreative.com/wp-content/uploads/2016/09/national-geographic-channel-logo-1.jpg" group-title="Documentare", Nacional Geografic ACE SD
+acestream://6513bfbe4d7e81261aecf712ecd4216372e459a5
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Viasat_History_Logo.jpg" group-title="Documentare", Viasat History ACE SD
+acestream://5c6e457d49126b30f7c9e0d0b0dd4544506b42f5
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/94/TLC_logo_2011.png" group-title="Documentare", TLC
+
+ACE CTV
+acestream://e8d359259b073ee39d742eef8922d2fb1f4fbe8e
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.yaktrinews.com/content/uploads/2020/04/70808E00-JRLAT1-1024x576.jpg" group-title="Filme", HBO
+acestream://075a28970996bc14d5e08f6a312e9fed61265ca2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.yaktrinews.com/content/uploads/2020/04/70808E00-JRLAT1-1024x576.jpg" group-title="Filme", HBO S2
+acestream://69be6f1ae831ca28c642e3f2a08d7afc258ccb4e
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_2_east_small.gif" group-title="Filme", HBO 2
+acestream://05b48e91043e46677631ffd70b76268f044359f1
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://banner2.cleanpng.com/20180616/fsj/kisspng-hbo-comedy-streaming-television-hbo-2-hbo-5b2563b4d39311.9631205115291770128666.jpg" group-title="Filme", HBO 3
+acestream://f9544ef9e50370fa3c4a0a91c1957be9159e188c
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.magticom.ge/images/channels/MjAxOC8wOS8xMC9lMzJhZWEzYi1iOGQyLTRkZDYtOWU2MS1kMTBkN2E4MjkyMDkuanBn.jpg" group-title="Filme", Tv 1000
+acestream://fce853b5e89addc90a545c9aefd29e6b2da432ef
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/1344029921329491969/9Q8EGwRI.jpg" group-title="Filme", AMC
+acestream://03e3354094f1ff7d3659ae06fb0eead3476fbd00
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.mktgcdn.com/p/Ast-a_SVBBrKN236QCxSzBFd-9_rhAPWz042h_GyWR0/450x450.png" group-title="Filme", TNT
+acestream://ee65e0d5d982042632fa63c48b4b0de0b05300fa
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://stvron.com/canale/512/film-cafe.png" group-title="Filme", Film Cafe
+acestream://dd85b2520489e7a7b9959b8c9f471f5fde379372
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://stvron.com/canale/512/pro-2.png" group-title="Filme", Pro 2
+acestream://4c736a44e3ebea51c9591ae0c8094cbe8b9dccfa
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://exorbeo.com/wp-content/uploads/blogger/-pbmQG4pphBQ/T5SXUtSfJCI/AAAAAAAAEoQ/qgDLSR10UlM/s1600/axn%2Bhd%2Blogo.jpg" group-title="Filme", AXN
+acestream://60a604bbf9fb93785cd2b0faf9d3fff92e24631b
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://media2.pl/g/0/17059.jpg" group-title="Filme", Film Box
+acestream://9a2d005de125a3a3ebfb0142641bf82f45f0c2ed
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/filmbox-famly-logo.png" group-title="Filme", Film Box Family
+acestream://ad79483ef539eb15d9bcca880ee3fb960df97698
+
